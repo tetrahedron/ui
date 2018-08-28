@@ -2,3 +2,6 @@
 	path = packages/core
 	url = git@github.com:tetrahedron/core
 	branch = master
+[submodule "packages/grid"]
+	path = packages/grid
+	url = git@github.com:tetrahedron/grid
