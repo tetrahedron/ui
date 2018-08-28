@@ -1,0 +1,4 @@
+[submodule "packages/core"]
+	path = packages/core
+	url = git@github.com:tetrahedron/core
+	branch = master
