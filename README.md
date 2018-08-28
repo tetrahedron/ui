@@ -19,6 +19,7 @@ Tetrahedron is a React UI library that is built to be as unopinionated and flexi
 
 ## Packages
 
+- [Tetrahedron Core](https://github.com/tetrahedron/core)
 - [Tetrahedron Grid](https://github.com/tetrahedron/grid)
 
 ## Contributing
