@@ -5,3 +5,7 @@
 [submodule "packages/grid"]
 	path = packages/grid
 	url = git@github.com:tetrahedron/grid
+[submodule "packages/nav"]
+	path = packages/nav
+	url = git@github.com:tetrahedron/nav
+	branch = master
