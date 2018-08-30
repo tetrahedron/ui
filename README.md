@@ -16,6 +16,7 @@ Tetrahedron is a React UI library that is built to be as unopinionated and flexi
 
 - **Nothing should be assumed** about the use-case of any components
 - **No values should be hard-coded**, instead, use `defaultProps` so they can be overridden
+- [**Compound Components**](https://github.com/manjula91/react-advanced-patterns/tree/master/compound-components#compound-components) should be used everywhere that is appropriate.
 
 ## Packages
 
